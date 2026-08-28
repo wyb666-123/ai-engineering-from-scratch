@@ -26,3 +26,8 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
+.env
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
