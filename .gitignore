@@ -34,3 +34,6 @@ Thumbs.db
 
 # venv (course uses .venv)
 .venv/
+
+# tensorboard event files (lesson 12)
+outputs/phase0/12/runs/
